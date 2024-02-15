@@ -1,0 +1,4 @@
+I've organized my code into distinct layers, separating the UI, logic, and service layers. This layered architecture not only provides a clear structure but also makes it easier to modify specific parts without affecting others.
+I adopted the use of descriptive naming conventions for files, classes, variables, and methods.
+I incorporated comments where necessary to explain complex logic and provide context.
+I applied a modular approach, breaking down the code into smaller components with clear responsibilities.

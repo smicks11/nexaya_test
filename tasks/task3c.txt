@@ -1,0 +1,1 @@
+Yes, I adopted the MVVM (Model-View-ViewModel) architecture for this project. The primary reason for choosing MVVM is its ability to separate concerns and improve the maintainability, scalability, and testability of the codebase.
